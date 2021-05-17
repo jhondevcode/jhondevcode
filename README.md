@@ -5,9 +5,9 @@
 ## ✉ Find me:
 
 <p align="center">
- <a href="https://jhondev-code.github.io/" target="_blank" rel="noopener noreferrer"> <img src="./icons/social/world.png" alt="Web" style="vertical-align:top; margin:4px"> </a>
- <a href="https://www.linkedin.com/in/charalambos-ioannou" target="_blank" rel="noopener noreferrer"> <img src="./icons/social/linkedin.png" alt="Linkedin"  style="vertical-align:top; margin:4px"></a>
- <a href="mailto:cioannou1997@gmail.com"> <img src="./icons/social/gmail.png" alt="Gmail" style="vertical-align:top; margin:4px"></a> 
+    <a href="https://jhondev-code.github.io/" target="_blank" rel="noopener noreferrer"><img src="./icons/social/world.png" alt="Web" style="vertical-align:top; margin:4px"> </a>
+    <a href="https://www.linkedin.com/in/jhon-samuel-fernandez-gutierrez-4488b6200/" target="_blank" rel="noopener noreferrer"><img src="./icons/social/linkedin.png" alt="Linkedin"  style="vertical-align:top; margin:4px"></a>
+    <a href="mailto:jhondev-code@gmail.com"><img src="./icons/social/gmail.png" alt="Gmail" style="vertical-align:top; margin:4px"></a> 
 </p>
 
 # 🔧 Languages and tools:
@@ -32,10 +32,10 @@
 
 <div>
     <a href="https://github-readme-stats.vercel.app/api?username=jhondev-code&show_icons=true&theme=tokyonight">
-        <img align="left" width="60%" src="https://github-readme-stats.vercel.app/api?username=jhondev-code&show_icons=true&theme=tokyonight">
+        <img align="left" src="https://github-readme-stats.vercel.app/api?username=jhondev-code&show_icons=true&theme=tokyonight">
     </a>
-    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=jhondev-code&layout=compact&theme=tokyonight">
-        <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhondev-code&layout=compact&theme=tokyonight" />
+    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=jhondev-code&layout=compact&langs_count=10&theme=tokyonight">
+        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhondev-code&layout=compact&langs_count=10&theme=tokyonight">
     </a>
     <a href="https://activity-graph.herokuapp.com/graph?username=jhondev-code&theme=github">
         <img align="center" src="https://activity-graph.herokuapp.com/graph?username=jhondev-code&theme=github">
