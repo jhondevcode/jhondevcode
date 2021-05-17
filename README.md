@@ -28,7 +28,6 @@
     <img src="./icons/tools/rust_32x32.png" alt="react">
 </p>
 
-
 ## 🏆 My Github Stats:
 
 <div>
