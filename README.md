@@ -1,4 +1,5 @@
-# 👋 Hi, i'm jhon fernanfez
+# 👋 Hi, i'm [jhon fernanfez][website]
+![](https://visitor-badge.laobi.icu/badge?page_id=jhondev-code) [![Github](https://img.shields.io/github/followers/jhondev-code?label=Followers&logo=Github)](https://github.com/jhondev-code)
 
 ## Stats
 
@@ -33,3 +34,7 @@
         <td><img src="./icons/rust_32x32.png" alt="react"></td>
     </tr>
 </table>
+
+[website]: https://jhondev-code.github.io
+[linkedin]: https://www.linkedin.com/in/jhon-samuel-fernandez-gutierrez-4488b6200
+[mail]: mailto:jhondev.code@gmail.com
