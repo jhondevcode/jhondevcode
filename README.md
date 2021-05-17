@@ -33,10 +33,10 @@
 
 <div>
     <a href="https://github-readme-stats.vercel.app/api?username=jhondev-code&show_icons=true&theme=tokyonight">
-        <img align="left" src="https://github-readme-stats.vercel.app/api?username=jhondev-code&show_icons=true&theme=tokyonight">
+        <img align="left" width="60%" src="https://github-readme-stats.vercel.app/api?username=jhondev-code&show_icons=true&theme=tokyonight">
     </a>
     <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=jhondev-code&layout=compact&theme=tokyonight">
-        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhondev-code&layout=compact&theme=tokyonight" />
+        <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhondev-code&layout=compact&theme=tokyonight" />
     </a>
     <a href="https://activity-graph.herokuapp.com/graph?username=jhondev-code&theme=github">
         <img align="center" src="https://activity-graph.herokuapp.com/graph?username=jhondev-code&theme=github">
