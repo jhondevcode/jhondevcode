@@ -1,4 +1,4 @@
-# Hi i'm jhon fernanfez
+# 👋 Hi, i'm jhon fernanfez
 
 ## Stats
 
