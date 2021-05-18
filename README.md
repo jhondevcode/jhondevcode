@@ -1,6 +1,32 @@
 # 👋 Hi, i'm [jhon fernanfez][website]
 
+I really like learning something new every day, reading books, solving math problems and above all solving the question, how does this work?
+I started in the world of programming at 14 years of age using python as my first language, then at 18 I started studying systems engineering in my hometown.
+Currently I am studying languages, tools and framework, as well as differential and integral calculus.
+
 ![](https://visitor-badge.laobi.icu/badge?page_id=jhondev-code) [![Github](https://img.shields.io/github/followers/jhondev-code?label=Followers&logo=Github)](https://github.com/jhondev-code)
+
+## 🧠 I'm interested in:
+- Low level programming
+- The operation of computers at the bit level
+- The manipulation of the hardware using software
+- The inner workings of an operating system
+- 🔐 Informatic security
+- 🦾 Artificial intelligence
+- 💻 Machine learning
+- 🗏 Adaptive web development
+- 📱Mobile application development
+
+## 📘 I'am learning:
+- ⚛️ Compiled languages like C, C ++, Rust and Go
+- 🌐 Web development
+- 🤖 Electronics
+- 📐 Differential and integral calculus
+
+## Programming languages that I know best:
+- 🐍 Python (first love ❤️)
+- ☕ Java
+- Javascript
 
 ## ✉ Find me:
 
