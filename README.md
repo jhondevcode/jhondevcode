@@ -54,6 +54,7 @@ Currently I am studying languages, tools and framework, as well as differential 
     <img src="./icons/tools/react_32x32.png" alt="react">
     <img src="./icons/tools/gradle_32x23.png" alt="gradle">
     <img src="./icons/tools/tux_27x32.png" alt="linux">
+    <img src="./icons/tools/mysql_32x32.png" alt="mysql">
 </p>
 
 ## 🏆 My Github Stats:
