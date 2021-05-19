@@ -36,7 +36,7 @@ Currently I am studying languages, tools and framework, as well as differential 
     <a href="mailto:jhondev-code@gmail.com"><img src="./icons/social/gmail.png" alt="Gmail" style="vertical-align:top; margin:4px"></a> 
 </p>
 
-# 🔧 Languages and tools:
+## 🔧 Languages and tools:
 
 <p align="center">
     <img src="./icons/tools/c_32x32.png" alt="c">
