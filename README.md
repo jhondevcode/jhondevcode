@@ -1,8 +1,5 @@
 # 👋 Hi, i'm [jhon fernanfez][website]
 
-I really like learning something new every day, reading books, solving math problems and above all solving the question, how does this work?
-I started in the world of programming at 14 years of age using python as my first language, then at 18 I started studying systems engineering in my hometown.
-Currently I am studying languages, tools and framework, as well as differential and integral calculus.
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=jhondev-code) [![Github](https://img.shields.io/github/followers/jhondev-code?label=Followers&logo=Github)](https://github.com/jhondev-code)
 
