@@ -1,7 +1,7 @@
 # 👋 Hi, i'm [jhon fernanfez][website]
 
 
-![](https://visitor-badge.laobi.icu/badge?page_id=jhondev-code) [![Github](https://img.shields.io/github/followers/jhondev-code?label=Followers&logo=Github)](https://github.com/jhondev-code)
+![](https://visitor-badge.laobi.icu/badge?page_id=jhondevcode) [![Github](https://img.shields.io/github/followers/jhondevcode?label=Followers&logo=Github)](https://github.com/jhondevcode)
 
 ## 🧠 I'm interested in:
 - Low level programming
@@ -28,9 +28,9 @@
 ## ✉ Find me:
 
 <p align="center">
-    <a href="https://jhondev-code.github.io/" target="_blank" rel="noopener noreferrer"><img src="./icons/social/world.png" alt="Web" style="vertical-align:top; margin:4px"> </a>
+    <a href="https://jhondevcode.github.io/" target="_blank" rel="noopener noreferrer"><img src="./icons/social/world.png" alt="Web" style="vertical-align:top; margin:4px"> </a>
     <a href="https://www.linkedin.com/in/jhon-samuel-fernandez-gutierrez-4488b6200/" target="_blank" rel="noopener noreferrer"><img src="./icons/social/linkedin.png" alt="Linkedin"  style="vertical-align:top; margin:4px"></a>
-    <a href="mailto:jhondev-code@gmail.com"><img src="./icons/social/gmail.png" alt="Gmail" style="vertical-align:top; margin:4px"></a> 
+    <a href="mailto:jhondev.code@gmail.com"><img src="./icons/social/gmail.png" alt="Gmail" style="vertical-align:top; margin:4px"></a> 
 </p>
 
 ## 🔧 Languages and tools:
@@ -57,17 +57,17 @@
 ## 🏆 My Github Stats:
 
 <div>
-    <a href="https://github-readme-stats.vercel.app/api?username=jhondev-code&show_icons=true&theme=tokyonight">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=jhondev-code&show_icons=true&theme=tokyonight">
+    <a href="https://github-readme-stats.vercel.app/api?username=jhondevcode&show_icons=true&theme=tokyonight">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=jhondevcode&show_icons=true&theme=tokyonight">
     </a>
-    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=jhondev-code&layout=compact&langs_count=10&theme=tokyonight">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhondev-code&layout=compact&langs_count=10&theme=tokyonight">
+    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=jhondevcode&layout=compact&langs_count=10&theme=tokyonight">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhondevcode&layout=compact&langs_count=10&theme=tokyonight">
     </a>
-    <a href="https://activity-graph.herokuapp.com/graph?username=jhondev-code&theme=github">
-        <img align="center" src="https://activity-graph.herokuapp.com/graph?username=jhondev-code&theme=github">
+    <a href="https://activity-graph.herokuapp.com/graph?username=jhondevcode&theme=github">
+        <img align="center" src="https://activity-graph.herokuapp.com/graph?username=jhondevcode&theme=github">
     </a>
 </div>
 
-[website]: https://jhondev-code.github.io
+[website]: https://jhondevcode.github.io
 [linkedin]: https://www.linkedin.com/in/jhon-samuel-fernandez-gutierrez-4488b6200
 [mail]: mailto:jhondev.code@gmail.com
