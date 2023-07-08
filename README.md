@@ -93,3 +93,7 @@
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhondevcode&layout=compact&langs_count=10&theme=tokyonight">
     </a>
 </div>
+
+[website]: https://jhondevcode.github.io
+[linkedin]: https://www.linkedin.com/in/jhon-samuel-fernandez-gutierrez-4488b6200
+[mail]: mailto:jhondev.code@gmail.com
